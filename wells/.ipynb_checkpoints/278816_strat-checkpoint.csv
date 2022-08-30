@@ -1,0 +1,7 @@
+TOP, BASE, STRAT, LITHOLOGY, LITHOLOGY2
+0,92, QUUU, drift
+92, 152, OPDC, dolomite, sandstone
+152, 248, OPOD, dolomite
+248, 342, CJDN, sandstone
+342, 372, CSTL, siltstone, shale
+372, 525, CTCG, sandstone, shale

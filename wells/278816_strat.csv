@@ -1,0 +1,7 @@
+top,base,stratigraphy,comp lithology,secondary lithology
+0,92, QUUU, glacial drift,
+92,152, OPDC,dolostone,sand
+152,248, OPOD,dolostone,
+248,342, CJDN, sandstone,
+342,372, CSTL, siltstone,shale
+372,525, CTCG, sandstone,shale
