@@ -1,0 +1,13 @@
+top,base,comp stratigraphy,comp lithology,lithology secondary,lithology minor
+277.9776,209.3976,OPDC,dolostone,,
+209.3976,197.2056,CJDN,sandstone,,
+197.2056,181.9656,CJDN,sandstone,,
+181.9656,179.5272,CJDN,sandstone,,
+179.5272,156.972,CSTL,dolomite,shale,sandstone
+156.972,113.3856,CTCG,sandstone,shale,dolomite
+113.3856,107.2896,CWOC,sandstone,,
+107.2896,106.3752,CWOC,sandstone,shale,
+106.3752,101.8032,CWOC,sandstone,,
+101.8032,99.06,CWOC,sandstone,shale,
+99.06,88.392,CWOC,sandstone,,
+88.392,80.772,CECR,shale,dolomite,sandstone
